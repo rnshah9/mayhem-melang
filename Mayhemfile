@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-melang
+target: melang
+
+cmds:
+  - cmd: /repo/melang @@
+    filepath: /test.mln
